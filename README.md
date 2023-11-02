@@ -1,7 +1,5 @@
 # Ammeykonney
 
-Ammeykonney is a [brief description of your project]. You can include a concise one-liner or a paragraph describing the purpose and functionality of your project.
-
 ![Python Version](https://img.shields.io/badge/python-3.9-blue.svg)
 ![Django Version](https://img.shields.io/badge/django-3.2-green.svg)
 ![License](https://img.shields.io/github/license/kpardhasai2004/ammeykonney)
@@ -15,8 +13,6 @@ Ammeykonney is a [brief description of your project]. You can include a concise 
 
 
 ### Prerequisites
-
-List any prerequisites that someone needs to install before using your project. For example:
 
 - Python 3.9
 - Django 3.2
